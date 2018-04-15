@@ -1,5 +1,5 @@
 # CalculadoraJavaSwing
-A Calculator using Java with Swing
+A Calculator using Java within the wizard
 
 That is a simple calcuator in JAVA, practicing the logic and learning the olddest a newest things of java and Swing.
 
